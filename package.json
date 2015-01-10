@@ -1,0 +1,8 @@
+{
+  "name": "Test",
+  "main": "index.html",
+  "window": {
+    "toolbar":false,
+    "height":300
+  }
+}
